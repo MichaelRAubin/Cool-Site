@@ -1,0 +1,85 @@
+.section-title {
+    margin-bottom: 20px;
+    border: 2px solid black;
+    background: blue;
+    color: white;
+    font-size: x-large;
+    font-family: monospace;
+    text-align: center;
+    display: block;
+}
+
+.section-footer {
+    border: 2px solid black;
+    padding: 60px;
+    background: blue;
+    display: block;
+}
+
+.title {
+    margin-left: 250px;
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+}
+
+.text-container {
+    height: 100%;
+    display: flex;
+    align-items: right;
+    justify-content: center;
+}
+
+.text {
+    margin-top: 0px;
+    margin-left: 270px;
+    margin-right: 20px;
+    width: 450px;
+    font-family: monospace;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.image {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 50px;
+    padding: 5px;
+    background: blue;
+    width: 160px;
+    height: 75px;
+    text-align: center;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.image-text {
+    color: white;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.article-text {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 0px;
+    width: 200px;
+    font-family: monospace;
+    font-size: small;
+    align-items: center;
+    justify-content: center;
+}
+
+.another-article-title {
+    font-family: monospace;
+    font-size: large;
+}
